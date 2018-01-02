@@ -294,3 +294,8 @@
 - Place: Rtalam, Madhya Pradesh, India
 - Bio: Anime addict
 - GitHub: [SUMIT SINGH](https://github.com/satan-nightmare)
+
+#### Name: [Shivam Kapoor](https://github.com/shivam2303)
+- Place: Varanasi, Uttar Pradesh, India
+- Bio: One who believes Knowledge is power.
+- GitHub: [Shivam Kapoor](https://github.com/shivam2303)
